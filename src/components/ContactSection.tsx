@@ -136,6 +136,27 @@ export const ContactSection: React.FC = () => {
               </div>
             </div>
 
+            {/* Middle Column: Our Office Map */}
+<div className="lg:col-span-4 relative rounded-2xl overflow-hidden border border-white/10 shadow-lg min-h-[320px] bg-[#0B111A]">
+  <div className="absolute top-4 left-4 z-10 bg-[#070B12]/90 backdrop-blur-md border border-white/10 rounded-xl px-4 py-3">
+    <p className="text-[10px] uppercase tracking-widest text-slate-400">
+      Our Office
+    </p>
+
+    <p className="text-sm font-semibold text-white mt-1">
+      Defence, Karachi
+    </p>
+  </div>
+
+  <iframe
+    title="MaidConnect Office - Defence Karachi"
+    src="https://www.google.com/maps?q=Defence%2C%20Karachi%2C%20Pakistan&output=embed"
+    className="w-full h-full min-h-[320px] border-0"
+    loading="lazy"
+    allowFullScreen
+  ></iframe>
+</div>
+
             {/* Right Column: Frequently Asked Questions Accordion */}
             <div className="lg:col-span-5 lg:col-start-8 flex flex-col justify-between lg:pl-12">
               <div>
