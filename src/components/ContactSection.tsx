@@ -60,7 +60,7 @@ export const ContactSection: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Main Content Container without enclosing box */}
         <div className="w-full">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16 items-stretch">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-20 items-stretch">
             {/* Left Column: Get In Touch */}
             <div className="lg:col-span-4 flex flex-col justify-between">
               <div>
