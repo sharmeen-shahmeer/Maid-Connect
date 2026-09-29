@@ -136,14 +136,6 @@ export const ContactSection: React.FC = () => {
               </div>
             </div>
 
-            {/* Middle Column: Photo Card with handwritten text overlay */}
-            <div className="lg:col-span-4 relative rounded-2xl overflow-hidden min-h-[300px] border border-white/10 shadow-lg">
-              <img
-                src="/src/assets/images/happy_home_living_room_1790649167423.jpg"
-                alt="Bright sunlit living room with comfortable sofa and plants"
-                className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
-              />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
               
             {/* Right Column: Frequently Asked Questions Accordion */}
