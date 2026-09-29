@@ -146,13 +146,7 @@ export const ContactSection: React.FC = () => {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
 
-              {/* Handwritten style overlay text */}
-              <div className="absolute top-6 right-6 text-right pointer-events-none">
-                <span className="font-serif italic text-base sm:text-lg text-slate-900 drop-shadow-md font-semibold bg-white/70 backdrop-blur-sm px-3 py-1.5 rounded-full inline-block">
-                  Happy homes start here ♡
-                </span>
-              </div>
-            </div>
+              
 
             {/* Right Column: Frequently Asked Questions Accordion */}
             <div className="lg:col-span-4 flex flex-col justify-between">
