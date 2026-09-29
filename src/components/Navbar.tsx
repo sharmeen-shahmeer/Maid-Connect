@@ -19,7 +19,7 @@ export const Navbar: React.FC<NavbarProps> = ({
     { label: 'Services', href: '#services' },
     { label: 'How It Works', href: '#how-it-works' },
     { label: 'Why Choose Us', href: '#why-choose-us' },
-    { label: 'DHA Coverage', href: '#coverage' },
+    { label: 'Area Coverage', href: '#coverage' },
     { label: 'FAQs', href: '#faqs' },
     { label: 'Contact', href: '#contact' },
   ];
