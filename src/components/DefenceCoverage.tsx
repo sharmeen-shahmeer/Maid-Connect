@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { MapPin, Check, Navigation, Building2 } from 'lucide-react';
 import { DHA_PHASES, DHA_POPULAR_KHAYABANS } from '../data/defenceLocations';
-import defenceImage from '..images/defence_karachi_coastal_1790646659926.jpg';
+import defenceImage from '..assets/defence_karachi_coastal_1790646659926.jpg';
 
 export const DefenceCoverage: React.FC<{ onBookInPhase: (phase: string) => void }> = ({
   onBookInPhase,
