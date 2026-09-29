@@ -145,9 +145,7 @@ export const ContactSection: React.FC = () => {
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
-
               
-
             {/* Right Column: Frequently Asked Questions Accordion */}
             <div className="lg:col-span-4 flex flex-col justify-between">
               <div>
