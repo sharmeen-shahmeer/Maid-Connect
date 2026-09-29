@@ -158,7 +158,7 @@ export const ContactSection: React.FC = () => {
 </div>
 
             {/* Right Column: Frequently Asked Questions Accordion */}
-            <div className="lg:col-span-5 lg:col-start-8 flex flex-col justify-between lg:pl-12">
+            <div className="lg:col-span-4 flex flex-col justify-between">
               <div>
                 <span className="text-[10px] font-semibold text-slate-400 tracking-widest uppercase mb-1.5 block">
                   FAQS
