@@ -1,0 +1,6 @@
+{
+  "name": "MaidConnect - Defence Karachi Home Help",
+  "description": "Reliable domestic help and home services in Defence, Karachi. Book part-time, full-time, hourly maids, cooking, cleaning, and elderly care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
