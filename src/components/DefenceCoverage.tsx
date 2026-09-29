@@ -38,7 +38,7 @@ export const DefenceCoverage: React.FC<{ onBookInPhase: (phase: string) => void 
           <div className="lg:col-span-6 flex flex-col justify-between rounded-[28px] overflow-hidden border border-white/10 bg-[#0E1524] shadow-2xl relative">
             <div className="relative h-64 sm:h-72 w-full overflow-hidden">
               <img
-                src={defenceImage}
+                src="/assets/images/defence_karachi_coastal_1790646659926.jpg"
                 alt="Scenic view of Defence Housing Authority Karachi coastal boulevard and Khayabans"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
